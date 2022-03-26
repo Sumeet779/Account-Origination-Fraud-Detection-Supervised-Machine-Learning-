@@ -1,5 +1,5 @@
 # Supervised-Machine-Learning-Projects-Fraud-Analytics
-**Account Originaiton Fraud project (credit Card Fraud Applications)
+**Account Originaiton Fraud project (Credit Card Fraud Applications)
 
 ****Business Problem and Process Overview:**
 This project aims to investigate identity fraud, which is the most prevalent sort of account origination fraud. Fraudsters apply for a product or service using different identities than their own. There are three types of identity fraud; Identity theft: fraudsters use real but stolen identities, identity manipulation: fraudsters alter their own identities (ssn, dob, name), synthetic fraud: fraudsters create entirely fabricated identities. Our supervised fraud algorithm examines all incoming applications and flags any that appear unusual and potentially fraudulent. The procedure is as follows: a consumer first applies for a credit card at a bank, and then the bank submits the application to a credit bureau, which assesses the applicant's fraud risk based on past data and returns the application to the bank. The bank then decides whether to offer a credit card to the customer.
